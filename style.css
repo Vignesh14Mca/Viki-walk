@@ -37,5 +37,8 @@ input{
     border-style: solid;
     display: inline-block;
     width: 150px;
-    margin: 5px;
+    margin: 100px;
+}
+.one{
+    display: inline-block; background-color: black;
 }
