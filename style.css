@@ -25,20 +25,28 @@ li:hover{
     color:rgb(12, 173, 112);
 }
 input{
-    width: 10%;
+    width: 60%;
     padding:50x;
 }
 .Searchbar{
-    padding: 20px;
+    padding: 10px;
+    display: inline-block;
 }
 .box{
-    border-color: rgb(240, 116, 116);
-    border-width: 3px;
+    border-color: rgb(154, 201, 26);
+    border-width: 5px;
     border-style: solid;
     display: inline-block;
+    border-radius: 10px;
+    padding: 30px;
     width: 150px;
-    margin: 100px;
+    margin: 2px;
+    text-align: center;
+}
+.box:hover{
+    background-color: rgb(236, 143, 28);
+    cursor: pointer;
 }
 .one{
-    display: inline-block; background-color: black;
+    display: inline-block;
 }
