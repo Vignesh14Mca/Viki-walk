@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+nav{
+    background-color: rgba(94, 255, 0, 0.432);
+    color:rgb(112, 28, 221);
+    padding: 10px;
+}
+h1,ul,li{
+    display: inline;
+}
+ul{
+    margin-left: 45%;
+}
+h1{
+    color: rgb(226, 43, 180);
+    font-size: 40px;
+}
+li{
+    color:rgb(211, 85, 123);
+    cursor: pointer;
+}
+li:hover{
+    color:rgb(12, 173, 112);
+}
+input{
+    width: 10%;
+    padding:50x;
+}
+.Searchbar{
+    padding: 20px;
+}
+.box{
+    border-color: brown;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    width: 150px;
+    margin: 5px;
+}
